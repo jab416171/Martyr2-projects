@@ -13,6 +13,7 @@ Some details:
 * My method of solving them may not be the best.
 
 I will link to each project that I complete. All will be in this same repo, some bigger ones may have dedicated repos.
+
 ==============================
 
 Numbers
