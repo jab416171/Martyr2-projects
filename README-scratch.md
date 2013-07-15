@@ -7,7 +7,7 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 Some details:
 
-* I will use Python, Java, and Perl to solve these. One per branch. I may include other languages.
+* I will use Python, Java, and Perl to solve these. I may include other languages.
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them.
 * My method of solving them may not be the best.
