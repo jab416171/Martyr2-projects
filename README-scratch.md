@@ -7,15 +7,12 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 Some details:
 
-* I will use Python to solve these. Why? Because I want to learn the language quickly.
-* I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
+* I will use Python, Java, and Perl to solve these. One per branch. I may include other languages.
 * The projects will not be made in the order posted.
-* I may not be able to complete all of them. 
+* I may not be able to complete all of them.
 * My method of solving them may not be the best.
 
-I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
-
+I will link to each project that I complete. All will be in this same repo, some bigger ones may have dedicated repos.
 ==============================
 
 Numbers
